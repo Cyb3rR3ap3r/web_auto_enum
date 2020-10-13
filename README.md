@@ -1,2 +1,2 @@
-# web_auto_enum
-A script based on TCM's script off Udemy for Web App Enumeration
+# Web Auto Enum
+A script to help automate basic enumeration of Web Applications
